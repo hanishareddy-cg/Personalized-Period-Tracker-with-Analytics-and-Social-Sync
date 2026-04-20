@@ -35,7 +35,3 @@ Python-based data access and visualization are also included.
 
 Developed as part of IE 6700 -- Data Management for Analytics.
 
-## Authors
-
--   Hanisha Reddy Cattamanchi Gopinath
--   Sakshi Pawar
